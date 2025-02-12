@@ -19,7 +19,7 @@ Site em HTML com interações em JavaScript desenvolvido no curso Alura de Lógi
 
 <div align = "center">
       <h2 align="center"> Tela Web do sorteador. </h2>
-      Tela apresentando um exemplo de execução do sorteador.
+      Tela apresentando um exemplo de execução do sorteador
       <br>
       <br>
       <br>
